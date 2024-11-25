@@ -1,0 +1,120 @@
+body {
+    background-color: #2B2B2B;
+    background-size: cover;
+    font-family: "Work sans";
+}
+
+@font-face {
+    font-family: "Work sans";
+    src: url("fonts/WorkSans-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family:"Space mono" ;
+    src: url("fonts/SpaceMono-Regular.ttf");
+}
+
+.signup {
+    width: 152px;
+    height: 60px;
+    gap: 12px;
+    border-radius: 20px ;
+    background-color: #A259FF;
+    border: 0;
+    outline: none;
+    font-family: "Work sans";
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    background-image: url("User.png");
+    background-repeat: no-repeat;
+    background-position:20px center;
+    padding-left: 10px;
+}
+
+.nav-item {
+    margin-left:40px;
+}
+
+.NFT {
+    font-size: 67px;
+    font-weight: 600;
+    line-height: 73.7px;
+    text-align: left;
+    color: white;
+}
+
+.ptext1 {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35.2px;
+    text-align: left;
+    color: #919191;
+}
+
+.button-rocket {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    color: white;
+    background-color: #A259FF;
+    width: 224px;
+    height: 60px;
+    border-radius: 20px;
+    opacity: 0px;
+    border: 0;
+    outline: 0;
+    background-image: url("RocketLaunch.png");
+    background-repeat: no-repeat;
+    background-position: 45px center;
+    padding-left: 30px;
+}
+
+.span1 {
+    font-size: 28px;
+    font-weight: 700;
+    text-align: left;
+    color: white;
+    margin: 0;
+    font-family:"Space mono" ; 
+}
+
+.span2 {
+    font-size: 23.99px;
+    font-weight: 400;
+    text-align: left;
+    color: rgb(122, 122, 122);
+}
+
+.ptext2 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 39.2px;
+    text-align: left;
+    color: white;
+    margin: 0;
+}
+
+.ptext3 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    text-align: left;
+    color: rgb(122, 122, 122);
+}
+
+.bg-primary1 {
+    margin-top: 30px;
+}
+
+.ptext4 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30.8px;
+    text-align: left;
+    color: white;
+    margin-top: 10px;
+}
